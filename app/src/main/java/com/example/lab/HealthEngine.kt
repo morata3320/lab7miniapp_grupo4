@@ -1,4 +1,4 @@
-package com.example.myapplication
+package com.example.lab
 
 fun clasificarIMC(peso: Double, altura: Double): String {
     if (peso <= 0.0 || altura <= 0.0) {
